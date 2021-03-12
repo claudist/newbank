@@ -1,5 +1,6 @@
 package newbank.server;
 
+//testing
 public class Account {
 	
 	private String accountName;
